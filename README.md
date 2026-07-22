@@ -402,6 +402,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- <img src="https://skilldb.dev/favicon.ico" height="14"/> [SkillDB](https://github.com/devchad-cmd/skilldb-sdk) - Searchable library of 5,900+ peer-authored agent skills your agent loads on demand — 10 MCP tools for search, recommendation, and private-skill management. Install: `npx -p skilldb skilldb-mcp` or remote at https://mcp.skilldb.dev. Free tier serves metadata; free API key unlocks full content.
 
 <br />
 
