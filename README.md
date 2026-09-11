@@ -1,3 +1,20 @@
+## About this fork
+
+A separate Markdown curation of external Model Context Protocol servers. Its value is discovery metadata and upstream attribution, rather than a fleet of servers operated by this account.
+
+This fork was reviewed on 2026-09-10 at `187929affcbd6fcb82067e2ebd0aef13c94d1fe1`. The upstream catalog and attribution are preserved below. No upstream synchronization or live verification of every listed resource was performed.
+
+Current repository capabilities:
+
+- **Server directory** — The root README contains the curated resource list.
+
+- Listed servers are external projects; inclusion is not installation, operation, endorsement, or a working ecosystem connection.
+- Catalog freshness is limited to the captured fork; no upstream merge was performed in this audit.
+
+Use the installation, license, and security documentation of each referenced project before enabling it. The catalog is a discovery resource; it does not provision those tools.
+
+---
+
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
