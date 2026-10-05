@@ -403,6 +403,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+- <img src="https://skilldb.dev/logo/skilldb-logo-square-512.png" height="14" /> [SkillDB](https://github.com/devchad-cmd/skilldb-sdk) - Search reusable AI agent skills through an installable TypeScript MCP server; full content requires the appropriate authenticated plan.
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
